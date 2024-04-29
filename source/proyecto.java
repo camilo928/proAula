@@ -3,7 +3,7 @@ public class proyecto{
     public static void main(String[] args){
         int op;
         String usu;
-        String contra;
+        String contra;//
         Scanner leer = new Scanner(System.in);
         System.out.println("BIENVENIDO");
         System.out.println("1.INICIAR SESION");
