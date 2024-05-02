@@ -1,0 +1,7 @@
+public class Equipo {
+    public String nombre;
+    public String codigo;
+    public String tipo;
+    public String consumo;
+    public String eficiencia;
+}
